@@ -6,7 +6,7 @@
 
 ![1](https://github.com/user-attachments/assets/f4eebf18-67ef-44f7-9346-c8eb913b9498)
 
-**You will see a Javascript function that decypts an encrypted flag. Sounds like what we are looking for**
+**You will see a Javascript function that decrypts an encrypted flag. Sounds like what we are looking for**
 
 **After copping the code right click, then go to inspect ,and paste the code in the console tab as shown**👇
 
